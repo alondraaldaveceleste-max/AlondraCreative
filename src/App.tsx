@@ -12,7 +12,6 @@ import {
   Code,
   Smartphone,
   ExternalLink,
-  Instagram,
   ArrowUp
 } from 'lucide-react';
 
